@@ -2,7 +2,7 @@
 
 This project predicts loan approval status using machine learning techniques. The goal is to analyze the dataset, handle data issues, and train a predictive model to classify loan approvals effectively.
 
-* View the Project
+* <a href="https://github.com/Dharani1202/Loan_Approval_Prediction_using---Machine_Learning/blob/main/Insurance%20Claim%20Fraud%20Detection.ipynb"> View the Project </a>
 
 ## About
 
@@ -77,6 +77,7 @@ All code and analysis are documented in a Jupyter Notebook for easy understandin
 
 ## Conclusion
 
-This project demonstrates the end-to-end workflow of a machine learning classification problem: from cleaning and preprocessing data to training, evaluating, and validating a predictive model for loan approvals.
+This project demonstrates the end-to-end workflow of a machine learning classification problem: from cleaning and preprocessing data to training, evaluating, and validating a predictive model for loan approval.
 
-* View the Project
+
+* <a href="https://github.com/Dharani1202/Loan_Approval_Prediction_using---Machine_Learning/blob/main/Insurance%20Claim%20Fraud%20Detection.ipynb"> View the Project </a>
